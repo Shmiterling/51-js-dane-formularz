@@ -1,0 +1,15 @@
+button {
+  background-color: darkslategray;
+  color:whitesmoke;
+  padding:15px 30px;
+  font-size: 17px;
+}
+body {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+button:hover {
+  background-color: rgb(35, 59, 59);
+}
+input{
+  background-color: antiquewhite;
+}
